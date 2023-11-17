@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-family: 'Didot', serif;
+
+
+}
+
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: xx-large;
+}
+h3{
+    font-size: x-large;
+}
+
+.esimerkki-box{
+    background-color: #CCCCCC;
+    border: 1px solid;
+    padding: 5px;
+    max-width: 100%;
+    min-width: 100px;
+   margin-left: 300px; 
+   margin-right: 300px;
+}
+
+.container{
+    text-align: center;
+}
+.centered-list{
+    list-style-position: right;
+    display: inline-block;
+}
+.ruskea-sana{
+    color: brown
+}
+.punainen-sana{
+    color: red
+}
+.beige-sana{
+    color: #8b7d6b;
+}
+
+.rivivali{
+    margin-top: 80px;
+}
+
+.jsharkkatyyli{
+    display: none;
+}
